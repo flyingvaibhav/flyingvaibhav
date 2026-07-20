@@ -51,11 +51,11 @@ Computer Science Undergraduate • Backend Engineer • AI Systems Builder • O
 
 # About Me
 
-I'm **Vaibhav Pandey**, a Computer Science undergraduate passionate about designing scalable software systems that solve practical engineering problems.
+I'm **Vaibhav Pandey**, a Computer Science undergraduate passionate about designing scalable software systems and AI/ML-powered solutions that solve real-world problems.
 
-My work primarily revolves around backend engineering, distributed systems, developer tooling, artificial intelligence, and modern cloud-native architectures.
+My work primarily revolves around backend engineering, full-stack development, distributed systems, artificial intelligence, machine learning, and modern cloud-native architectures.
 
-I enjoy transforming ideas into production-inspired software by combining clean architecture, efficient algorithms, scalable APIs, and thoughtful system design.
+I enjoy transforming ideas into production-ready software by combining clean architecture, efficient algorithms, scalable APIs, thoughtful system design, and intelligent technologies to build reliable and impactful applications.
 
 ---
 
