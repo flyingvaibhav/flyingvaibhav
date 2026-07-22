@@ -2,7 +2,8 @@ name: GitHub Profile Summary Cards
 
 
 on:
-
+  push:
+    - main
 
   schedule:
 
