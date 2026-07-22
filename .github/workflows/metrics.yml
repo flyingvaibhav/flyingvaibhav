@@ -1,4 +1,4 @@
-name: GitHub Metrics
+  name: GitHub Metrics
 
 on:
   # Generate once every day at 08:00 AM IST (02:30 UTC)
