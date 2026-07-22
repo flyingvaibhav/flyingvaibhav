@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero-banner.png" width="100%" alt="Vaibhav Pandey"/>
+<img src="bannergithub.png" width="100%" alt="Vaibhav Pandey"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Engineer;Distributed+Systems+Enthusiast;AI+Systems+Builder;Java+%7C+Spring+Boot+%7C+Node.js;Building+Scalable+Software" />
@@ -51,11 +51,11 @@ Computer Science Undergraduate • Backend Engineer • AI Systems Builder • O
 
 # About Me
 
-I'm **Vaibhav Pandey**, a Computer Science undergraduate passionate about designing scalable software systems and AI/ML-powered solutions that solve real-world problems.
+I'm **Vaibhav Pandey**, a Computer Science undergraduate passionate about designing scalable software systems that solve practical engineering problems.
 
-My work primarily revolves around backend engineering, full-stack development, distributed systems, artificial intelligence, machine learning, and modern cloud-native architectures.
+My work primarily revolves around backend engineering, distributed systems, developer tooling, artificial intelligence, and modern cloud-native architectures.
 
-I enjoy transforming ideas into production-ready software by combining clean architecture, efficient algorithms, scalable APIs, thoughtful system design, and intelligent technologies to build reliable and impactful applications.
+I enjoy transforming ideas into production-inspired software by combining clean architecture, efficient algorithms, scalable APIs, and thoughtful system design.
 
 ---
 
@@ -209,7 +209,7 @@ I enjoy transforming ideas into production-ready software by combining clean arc
 </table>
 
 ---
-# 🚀 Featured Projects
+# # 🚀 Featured Projects
 
 <table>
 
@@ -217,23 +217,69 @@ I enjoy transforming ideas into production-ready software by combining clean arc
 
 <td width="50%" valign="top">
 
-## QueueCTL
+## Last Mile Delivery Tracker
 
-**CLI-first Distributed Job Queue**
+**Smart Logistics & Shipment Tracking Platform**
 
-A production-inspired distributed task processing system featuring worker orchestration, retries, scheduling, dead-letter queues, monitoring, and asynchronous execution.
+A scalable logistics and shipment management platform featuring customer, delivery agent, and admin portals. Supports smart dispatch, automated pricing, order tracking, email notifications, secure authentication, and responsive dashboards.
 
 **Domain**
 
-`Distributed Systems` • `Developer Tools`
+`Logistics` • `Full Stack` • `SaaS`
 
 **Tech**
 
-TypeScript • Node.js • SQLite • CLI • Worker Architecture
+Next.js • TypeScript • MongoDB • Clerk Authentication • Tailwind CSS • Nodemailer
 
-[Repository](https://github.com/flyingvaibhav/flam-software-intern-project)
+[Repository](https://github.com/flyingvaibhav/last-mile-delivery-tracker)
 
 </td>
+
+<td width="50%" valign="top">
+
+## S.A.R.G.A.M
+
+**Scalable Music Streaming Platform**
+
+A production-inspired music streaming platform built using microservices architecture with secure authentication, Redis caching, API Gateway, and scalable backend services.
+
+**Domain**
+
+`Distributed Systems` • `Backend Engineering`
+
+**Tech**
+
+TypeScript • Node.js • Express.js • MongoDB • Redis • JWT • Microservices
+
+[Repository](https://github.com/flyingvaibhav/S.A.R.G.A.M-microservices-project)
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+## Disaster Drone Management System
+
+**AI Disaster Response Platform**
+
+An AI-powered disaster response system using YOLO-based real-time survivor detection, drone simulation, mission planning, and emergency coordination. Includes live video streaming, GPS survivor logging, route optimization, and mission control dashboard.
+
+**Domain**
+
+`Artificial Intelligence` • `Computer Vision` • `Robotics`
+
+**Tech**
+
+Python • FastAPI • YOLO • OpenCV • SQLite • Computer Vision
+
+[Repository](https://github.com/flyingvaibhav/disaster-drone-management-system)
+
+</td>
+
 
 <td width="50%" valign="top">
 
@@ -241,7 +287,7 @@ TypeScript • Node.js • SQLite • CLI • Worker Architecture
 
 **AI Career Preparation Platform**
 
-AI-powered interview preparation platform integrating Speech-to-Text, LLM evaluation, resume analysis, personalized learning, and real-time interview workflows.
+AI-powered interview preparation platform featuring mock interviews, resume analysis, speech-to-text processing, LLM evaluation, personalized learning, and career assistance workflows.
 
 **Domain**
 
@@ -251,183 +297,53 @@ AI-powered interview preparation platform integrating Speech-to-Text, LLM evalua
 
 Next.js • TypeScript • PostgreSQL • AssemblyAI • Gemini • AWS Polly
 
-[Repository](https://github.com/flyingvaibhav/LetsKraack.Ai)
+[Repository](https://github.com/flyingvaibhav/Let-s-Krack)
 
 </td>
 
 </tr>
 
-<tr>
-
-<td width="50%" valign="top">
-
-## PerformIQ
-
-**Enterprise Performance Management**
-
-Enterprise SaaS platform implementing RBAC, approval workflows, KPI governance, multi-role dashboards, and secure authentication.
-
-**Domain**
-
-`Enterprise SaaS`
-
-**Tech**
-
-Next.js • TypeScript • PostgreSQL • RBAC • Authentication
-
-[Repository](https://github.com/flyingvaibhav/PerformIQ)
-
-</td>
-
-<td width="50%" valign="top">
-
-## Sarion
-
-**AI Disaster Response Platform**
-
-Computer vision powered disaster response simulation integrating AI detection, telemetry, path planning, and emergency coordination.
-
-**Domain**
-
-`Artificial Intelligence`
-
-`Computer Vision`
-
-**Tech**
-
-Python • YOLO • FastAPI • OpenCV
-
-[Repository](https://github.com/flyingvaibhav/Sarion)
-
-</td>
-
-</tr>
 
 <tr>
 
 <td width="50%" valign="top">
 
-## Society Management System
+## TreeSense
 
-Multi-role society administration platform with authentication, resident management, complaints, maintenance, announcements, and dashboard analytics.
+**AI-Based Green Cover Analysis System**
+
+AI-powered tree detection and counting solution using aerial imagery. Supports YOLOv8 model training, evaluation, visualization, and ONNX deployment for forest inventory and environmental monitoring.
 
 **Domain**
 
-`Full Stack`
-
-`MERN`
+`Artificial Intelligence` • `Computer Vision` • `Environmental Tech`
 
 **Tech**
 
-TypeScript • React • Node.js • Database
+Python • YOLOv8 • OpenCV • ONNX • Machine Learning
 
-[Repository](https://github.com/flyingvaibhav/society-management)
+[Repository](https://github.com/flyingvaibhav/TreeSensing)
 
 </td>
 
-<td width="50%" valign="top">
-
-## AI-Powered Phishing Detection
-
-Machine learning driven phishing detection system capable of analysing URLs, emails, and webpages for malicious behaviour.
-
-**Domain**
-
-`Cyber Security`
-
-`Machine Learning`
-
-**Tech**
-
-Python • Scikit-Learn • NLP • Machine Learning
-
-[Repository](https://github.com/flyingvaibhav/AI-Powered-Phishing-detection-and-Mitigation)
-
-</td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
-## Fire & Smoke Detection
+## AI Support ChatBOT
 
-Real-time fire and smoke detection using deep learning and computer vision with emergency alert capabilities.
+**Intelligent Conversational Assistant**
 
-**Domain**
-
-`Computer Vision`
-
-`Deep Learning`
-
-**Tech**
-
-Python • OpenCV • CNN • PyTorch
-
-[Repository](https://github.com/flyingvaibhav/Advance-fire-and-smoke-detection-system)
-
-</td>
-
-<td width="50%" valign="top">
-
-## Human Detection with YOLOv8
-
-Real-time human detection system supporting multiple camera feeds, object tracking, and automated alerts.
+AI-powered chatbot application designed to provide automated support through intelligent conversations, contextual responses, and modern frontend-backend integration.
 
 **Domain**
 
-`Computer Vision`
+`Artificial Intelligence` • `Chatbots`
 
 **Tech**
 
-Python • YOLOv8 • OpenCV
+TypeScript • JavaScript • AI APIs • Web Development
 
-[Repository](https://github.com/flyingvaibhav/Human-Detection-System-with-YOLOv8)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## Saarthi
-
-Smart healthcare vending solution combining React Native, backend APIs, payment workflows, and inventory management.
-
-**Domain**
-
-`Mobile Development`
-
-`Healthcare`
-
-**Tech**
-
-React Native • TypeScript • Python
-
-[Repository](https://github.com/flyingvaibhav/Saarthi-React-Native-App)
-
-</td>
-
-<td width="50%" valign="top">
-
-## UPI Java
-
-Java implementation of core UPI concepts demonstrating transaction workflows, account management, and payment processing.
-
-**Domain**
-
-`Java`
-
-`Backend`
-
-**Tech**
-
-Java • OOP • Collections
-
-[Repository](https://github.com/flyingvaibhav/UPI-Java)
+[Repository](https://github.com/flyingvaibhav/AI-Support-ChatBOT)
 
 </td>
 
@@ -435,20 +351,50 @@ Java • OOP • Collections
 
 </table>
 
+
 ---
 
 # 📦 Other Notable Projects
 
-- 🍔 **Food Fiesta** — Restaurant management application built in Java.
-- 📱 **Sticker Smasher** — React Native mobile application exploring modern mobile UI development.
-- 📄 **Resume Analyser AI (Java)** — AI-assisted resume evaluation and parsing.
-- 🎵 **Interactive Music Web App** — Browser-based music streaming application.
-- 📈 **Stock Market Forecast** — Time-series forecasting and visualization using Python.
-- 💬 **Mystery Message** — Anonymous messaging platform.
-- 🎯 **Authentication & Authorization** — Production-inspired authentication system with secure user workflows.
-- 🕹️ Collection of frontend experiments including Pong, Tic-Tac-Toe, Snake Game, Product Table, and other learning projects.
+- 💬 **SyncVerse** — Real-time chat application built with MERN stack, JWT authentication, and WebSockets supporting secure instant messaging, online presence, and responsive communication.
 
----
+[Repository](https://github.com/flyingvaibhav/Syncverse)
+
+
+- ✅ **Tasklyst** — Lightweight dependency-free task management application built with HTML, CSS, and JavaScript featuring LocalStorage persistence, animations, accessibility support, and responsive UI.
+
+[Repository](https://github.com/flyingvaibhav/Tasklyst)
+
+
+- 🚁 **Flood Survival Detection Drone** — Computer vision based emergency detection system designed for disaster monitoring and survivor identification.
+
+[Repository](https://github.com/flyingvaibhav/flood-survival-detection-drone)
+
+
+- 🧠 **Shortest Path Detector** — Algorithm visualization project implementing graph traversal and shortest path algorithms for problem-solving and learning.
+
+[Repository](https://github.com/flyingvaibhav/Shortest-Path-detector)
+
+
+- 🍔 **FoodieBot** — Food-related conversational application integrating interactive user experiences and chatbot workflows.
+
+[Repository](https://github.com/flyingvaibhav/FoodieBot)
+
+
+- 🌐 **SkillBridge** — Full-stack platform focused on connecting skills, learning resources, and user collaboration.
+
+[Repository](https://github.com/flyingvaibhav/SkillBridge)
+
+
+- 📝 **Lexora** — Frontend-focused web application exploring modern UI development and responsive design principles.
+
+[Repository](https://github.com/flyingvaibhav/lexora)
+
+
+- 📚 **AI Course Generation Platform** — AI-assisted platform for generating educational content and personalized learning resources.
+
+[Repository](https://github.com/flyingvaibhav/ai-course-generation)
+
 
 # 📊 GitHub Analytics
 
@@ -612,22 +558,6 @@ In 2026, I'm focusing on:
 </p>
 
 ---
-
-# 🗺️ Engineering Journey
-
-```text
-2024 ─ Web Development
-       │
-2025 ─ Backend Engineering
-       │
-2025 ─ Enterprise SaaS
-       │
-2026 ─ AI Systems
-       │
-2026 ─ Distributed Systems
-       │
-2027 → Platform Engineering
-```
 
 ### "Build systems that scale. Write code that lasts."
 
