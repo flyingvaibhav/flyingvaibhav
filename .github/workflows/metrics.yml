@@ -2,6 +2,9 @@
 
 on:
   # Generate once every day at 08:00 AM IST (02:30 UTC)
+  push:
+    - main
+
   schedule:
     - cron: "30 2 * * *"
 
