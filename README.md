@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hero-banner.png" width="100%" alt="Vaibhav Pandey"/>
+<img src="bannergithub.png" width="100%" alt="Vaibhav Pandey"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Backend+Engineer;Distributed+Systems+Enthusiast;AI+Systems+Builder;Java+%7C+Spring+Boot+%7C+Node.js;Building+Scalable+Software" />
