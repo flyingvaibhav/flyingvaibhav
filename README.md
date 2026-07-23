@@ -451,7 +451,7 @@ TypeScript • JavaScript • AI APIs • Web Development
 
 </div>
 
-<!-- ---
+---
 
 # 🏆 GitHub Trophies
 
@@ -461,7 +461,7 @@ TypeScript • JavaScript • AI APIs • Web Development
 
 </p>
 
---- -->
+---
 
 # 📊 Development Metrics
 <div align="center">
