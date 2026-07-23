@@ -464,11 +464,8 @@ TypeScript • JavaScript • AI APIs • Web Development
 --- -->
 
 # 📊 Development Metrics
-
 <div align="center">
-
-<img width="80%" src="./github-metrics.svg" alt="GitHub Metrics"/>
-
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="80%"/>
 </div>
 
 ---
